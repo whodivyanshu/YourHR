@@ -30,3 +30,18 @@
 h1{
   font-family: cursive;
 }
+.done{
+  display: flex;
+  text-align: center;background-color: rgb(228, 95, 0);
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.form{
+  padding-top: 50px;
+  width: 30%;
+  margin: auto;
+}
+body{
+  background-color: antiquewhite;
+}
